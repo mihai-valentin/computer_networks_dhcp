@@ -35,7 +35,11 @@ dst IP: 255.255.255.255
 
 [Макет сети](https://github.com/mihai-valentin/computer_networks_dhcp/blob/main/dhcp.pkt)
 
+[Видео по настройки сети](https://github.com/mihai-valentin/computer_networks_dhcp/blob/main/dhcp_scheme.mkv)
+
 ## Настроить DHCP server в Windows
+
+[Видео с процессом настройки](https://github.com/mihai-valentin/computer_networks_dhcp/blob/main/dhcp_win.mkv)
 
 ## Настроить DHCP server в Linux
 Для настройки DHCP сервера в ОС Linux можно использовать утилиту isc-dhcp-server.
@@ -51,6 +55,7 @@ subnet 10.8.0.0 netmask 255.248.0.0 {#Сеть и маска
   max-lease-time 1036800; #Максимальное время аренды - 12 дней
 }
 ```
+[Видео с процессом настройки](https://github.com/mihai-valentin/computer_networks_dhcp/blob/main/dhcp_ubuntu.mkv)
 
 Результат использования настроенного DHCP в Windows клиенте
 ![Windows DHCP client](https://github.com/mihai-valentin/computer_networks_dhcp/blob/main/dhcp_win.png)
