@@ -35,7 +35,7 @@ dst IP: 255.255.255.255
 
 [Макет сети](https://github.com/mihai-valentin/computer_networks_dhcp/blob/main/dhcp.pkt)
 
-[Видео по настройки сети](https://github.com/mihai-valentin/computer_networks_dhcp/blob/main/dhcp_scheme.mkv)
+[Видео по настройке сети](https://github.com/mihai-valentin/computer_networks_dhcp/blob/main/dhcp_scheme.mkv)
 
 ## Настроить DHCP server в Windows
 
